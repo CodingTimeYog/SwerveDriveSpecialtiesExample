@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "swerve-template",
+			"path": "swerve-template"
+		}
+	],
+	"settings": {}
+}
